@@ -1,0 +1,5 @@
+networkx==2.7.1
+pandas==1.4.1
+pyvis==0.1.9
+telethon==1.24.0
+tqdm==4.63.1
