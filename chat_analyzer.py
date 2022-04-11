@@ -1,6 +1,6 @@
 import logging
 import pandas as pd
-from network_builder import add_messages
+from network_crawler import add_messages
 from tqdm import tqdm
 from telegram import SyncTelegramClient
 from telethon.errors.rpcerrorlist import ChannelPrivateError
